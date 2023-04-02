@@ -1,0 +1,14 @@
+C:\Users\Decagon Device\Desktop\ShoppingChart\ShoppingChart.web\Shoppingchart.Utility\bin\Debug\net6.0\Shoppingchart.Utility.deps.json
+C:\Users\Decagon Device\Desktop\ShoppingChart\ShoppingChart.web\Shoppingchart.Utility\bin\Debug\net6.0\Shoppingchart.Utility.runtimeconfig.json
+C:\Users\Decagon Device\Desktop\ShoppingChart\ShoppingChart.web\Shoppingchart.Utility\bin\Debug\net6.0\Shoppingchart.Utility.dll
+C:\Users\Decagon Device\Desktop\ShoppingChart\ShoppingChart.web\Shoppingchart.Utility\bin\Debug\net6.0\Shoppingchart.Utility.pdb
+C:\Users\Decagon Device\Desktop\ShoppingChart\ShoppingChart.web\Shoppingchart.Utility\obj\Debug\net6.0\Shoppingchart.Utility.csproj.AssemblyReference.cache
+C:\Users\Decagon Device\Desktop\ShoppingChart\ShoppingChart.web\Shoppingchart.Utility\obj\Debug\net6.0\Shoppingchart.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon Device\Desktop\ShoppingChart\ShoppingChart.web\Shoppingchart.Utility\obj\Debug\net6.0\Shoppingchart.Utility.AssemblyInfoInputs.cache
+C:\Users\Decagon Device\Desktop\ShoppingChart\ShoppingChart.web\Shoppingchart.Utility\obj\Debug\net6.0\Shoppingchart.Utility.AssemblyInfo.cs
+C:\Users\Decagon Device\Desktop\ShoppingChart\ShoppingChart.web\Shoppingchart.Utility\obj\Debug\net6.0\Shoppingchart.Utility.csproj.CoreCompileInputs.cache
+C:\Users\Decagon Device\Desktop\ShoppingChart\ShoppingChart.web\Shoppingchart.Utility\obj\Debug\net6.0\Shoppingchart.Utility.dll
+C:\Users\Decagon Device\Desktop\ShoppingChart\ShoppingChart.web\Shoppingchart.Utility\obj\Debug\net6.0\refint\Shoppingchart.Utility.dll
+C:\Users\Decagon Device\Desktop\ShoppingChart\ShoppingChart.web\Shoppingchart.Utility\obj\Debug\net6.0\Shoppingchart.Utility.pdb
+C:\Users\Decagon Device\Desktop\ShoppingChart\ShoppingChart.web\Shoppingchart.Utility\obj\Debug\net6.0\Shoppingchart.Utility.genruntimeconfig.cache
+C:\Users\Decagon Device\Desktop\ShoppingChart\ShoppingChart.web\Shoppingchart.Utility\obj\Debug\net6.0\ref\Shoppingchart.Utility.dll

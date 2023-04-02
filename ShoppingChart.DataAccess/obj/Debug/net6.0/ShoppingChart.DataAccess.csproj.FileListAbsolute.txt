@@ -1,0 +1,17 @@
+C:\Users\Decagon Device\Desktop\ShoppingChart\ShoppingChart.web\ShoppingChart.DataAccess\bin\Debug\net6.0\ShoppingChart.DataAccess.deps.json
+C:\Users\Decagon Device\Desktop\ShoppingChart\ShoppingChart.web\ShoppingChart.DataAccess\bin\Debug\net6.0\ShoppingChart.DataAccess.runtimeconfig.json
+C:\Users\Decagon Device\Desktop\ShoppingChart\ShoppingChart.web\ShoppingChart.DataAccess\bin\Debug\net6.0\ShoppingChart.DataAccess.dll
+C:\Users\Decagon Device\Desktop\ShoppingChart\ShoppingChart.web\ShoppingChart.DataAccess\bin\Debug\net6.0\ShoppingChart.DataAccess.pdb
+C:\Users\Decagon Device\Desktop\ShoppingChart\ShoppingChart.web\ShoppingChart.DataAccess\bin\Debug\net6.0\ShoppingCart.Models.dll
+C:\Users\Decagon Device\Desktop\ShoppingChart\ShoppingChart.web\ShoppingChart.DataAccess\bin\Debug\net6.0\ShoppingCart.Models.pdb
+C:\Users\Decagon Device\Desktop\ShoppingChart\ShoppingChart.web\ShoppingChart.DataAccess\obj\Debug\net6.0\ShoppingChart.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Decagon Device\Desktop\ShoppingChart\ShoppingChart.web\ShoppingChart.DataAccess\obj\Debug\net6.0\ShoppingChart.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon Device\Desktop\ShoppingChart\ShoppingChart.web\ShoppingChart.DataAccess\obj\Debug\net6.0\ShoppingChart.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Decagon Device\Desktop\ShoppingChart\ShoppingChart.web\ShoppingChart.DataAccess\obj\Debug\net6.0\ShoppingChart.DataAccess.AssemblyInfo.cs
+C:\Users\Decagon Device\Desktop\ShoppingChart\ShoppingChart.web\ShoppingChart.DataAccess\obj\Debug\net6.0\ShoppingChart.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Decagon Device\Desktop\ShoppingChart\ShoppingChart.web\ShoppingChart.DataAccess\obj\Debug\net6.0\ShoppingChart.DataAccess.csproj.CopyComplete
+C:\Users\Decagon Device\Desktop\ShoppingChart\ShoppingChart.web\ShoppingChart.DataAccess\obj\Debug\net6.0\ShoppingChart.DataAccess.dll
+C:\Users\Decagon Device\Desktop\ShoppingChart\ShoppingChart.web\ShoppingChart.DataAccess\obj\Debug\net6.0\refint\ShoppingChart.DataAccess.dll
+C:\Users\Decagon Device\Desktop\ShoppingChart\ShoppingChart.web\ShoppingChart.DataAccess\obj\Debug\net6.0\ShoppingChart.DataAccess.pdb
+C:\Users\Decagon Device\Desktop\ShoppingChart\ShoppingChart.web\ShoppingChart.DataAccess\obj\Debug\net6.0\ShoppingChart.DataAccess.genruntimeconfig.cache
+C:\Users\Decagon Device\Desktop\ShoppingChart\ShoppingChart.web\ShoppingChart.DataAccess\obj\Debug\net6.0\ref\ShoppingChart.DataAccess.dll
