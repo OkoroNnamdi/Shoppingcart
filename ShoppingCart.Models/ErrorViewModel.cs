@@ -1,4 +1,4 @@
-namespace ShoppingChart.web.Models
+namespace ShoppingChart.Models
 {
     public class ErrorViewModel
     {

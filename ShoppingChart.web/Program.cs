@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using ShoppingChart.DataAccess.Data;
+using ShoppingChart.DataAccess.Repositories;
 
 namespace ShoppingChart.web
 {
@@ -15,6 +16,7 @@ namespace ShoppingChart.web
             {
                   options.UseSqlServer(builder.Configuration.GetConnectionString("DbConnection"));
             });
+            builder.Services.AddScoped <IUnitofWork,UnitOfWork>();
 
             var app = builder.Build();
 
