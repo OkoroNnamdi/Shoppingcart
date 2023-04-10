@@ -65,14 +65,16 @@ namespace ShoppingChart.web.Areas.Admin.Controllers
         [HttpGet ]
         public IActionResult Delete(int? id)
         {
-            
+            if(id == null || id == 0)
+            {
+                return NotFound ();
+            }
             var catgory = _unitofwork.category.GetT (x=>x.Id == id);
             if (catgory == null)
             {
                 return NotFound ();
             }
-            _unitofwork.category.Delete (catgory);
-            _unitofwork.Save();
+            
             return View(catgory);
         }
 

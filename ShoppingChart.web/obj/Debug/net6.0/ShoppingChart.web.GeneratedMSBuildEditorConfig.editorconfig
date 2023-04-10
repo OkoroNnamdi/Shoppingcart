@@ -20,8 +20,16 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcQ3JlYXRlVXBkYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Decagon Device/Desktop/ShoppingChart/ShoppingChart.web/ShoppingChart.web/Areas/Admin/Views/Category/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Decagon Device/Desktop/ShoppingChart/ShoppingChart.web/ShoppingChart.web/Areas/Admin/Views/Category/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Decagon Device/Desktop/ShoppingChart/ShoppingChart.web/ShoppingChart.web/Areas/Admin/Views/Product/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Decagon Device/Desktop/ShoppingChart/ShoppingChart.web/ShoppingChart.web/Areas/Admin/Views/_ViewImports.cshtml]

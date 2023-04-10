@@ -20,8 +20,10 @@ namespace ShoppingChart.DataAccess.Repositories
           var categoryDb = _context.categories.FirstOrDefault (x => x.Id == category.Id);
             if (categoryDb != null)
             {
-                categoryDb.Name = category.Name;
-                categoryDb.DisplayOrder = category.DisplayOrder;
+                //categoryDb.Name = category.Name;
+                //categoryDb.DisplayOrder = category.DisplayOrder;
+                _context.categories.Update(category);
+
             }
         }
     }
